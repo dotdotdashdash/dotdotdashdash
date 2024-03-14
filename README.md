@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ismail
 - 👀 I’m a Software Engineer focused on developing backend services for web applications.
-- 🌱 I’m experienced in using Node.Js and MySQL and currently learning Go.
+- 🌱 I’m experienced in using Go, Node.Js and MySQL.
 - 📫 You can reach me at hello@ismailmuhammad.com
 
 <!---
